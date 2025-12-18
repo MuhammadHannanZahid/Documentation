@@ -48,16 +48,14 @@
 
   ## Feature Display Portion(The right pane):
     This portion visually shows/tells about the services that are provided. The following are the services,
-      |-------------------------------------------------------------------------|
-      | **Services**          | **Description**                                 |
-      |-----------------------|-------------------------------------------------|
-      | *Social Media:*       | Real-time social signals and threats tracking.  |
-      | *Data Collection:*    | Large scale, data driven intelligence gathering.|
-      | *Breach Monitoring:*  | Detection of security compromises.              |
-      | *Data Defacement:*    | Monitoring for your brand and web alterations.  |
-      | *Dark intel:*         | Discovery and analysis of deep dark web data.   |
-      | *Stealer logs:*       | Identification and tracking of credential leaks.|
-      |-------------------------------------------------------------------------|
+      | Services | Description |
+      | :--- | :--- |
+      | Social Media | Real-time social signals and threats tracking. |
+      | Data Collection | Large scale, data driven intelligence gathering. |
+      | Breach Monitoring | Detection of security compromises. |
+      | Data Defacement | Monitoring for your brand and web alterations. |
+      | Dark intel | Discovery and analysis of deep dark web data. |
+      | Stealer logs | Identification and tracking of credential leaks. |
 
   ## System Preview(Part of right Pane):
     Gives an image of what is inside the web application and in how much depth the work is being done in this web application.
