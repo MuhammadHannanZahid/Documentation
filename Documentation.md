@@ -15,6 +15,9 @@ The Orion Intelligence authentication portal is the starting/entry point of the 
 2. **Design:** It consists of deep navy and sky-blue colours showing *Dark Mode* vibe conveying a message of security and technical environment.
 3. **Layout:** It consists of a split-pane design that separates the user interaction options from the informational content representing what this application is about.
 
+This is the preview of the Website Portal.
+![Website portal view](Preview.png)
+
 ## Technical stack:
 1. **Frontend:**
   - HTML
