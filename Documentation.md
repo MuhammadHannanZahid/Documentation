@@ -2,6 +2,7 @@
 
 ## Table of Content:
 * [Page Identity](#page-identity)
+* [Web Portal Image](#web-portal-image)
 * [Technical Stack](#technical-stack)
 * [Authentication portion(The left pane)](#authentication-portionthe-left-pane)
 * [Feature Display Portion(The right pane)](#feature-display-portionthe-right-pane)
