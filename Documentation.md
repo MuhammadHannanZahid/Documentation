@@ -41,10 +41,10 @@ This portion consists of the "Input Controls/Options" which are required from th
     - **Our Services:** Gives information about what we provide users with like Network Intelligence, Database security, Web Protection, etc.
     - **About us:** Provides information about who we are, what we do, what do we consist of, etc. 
       
-    For further information follow these links,
-    ([Privacy Policy](https://drive.google.com/file/d/16NQysXxTdEg5Jx6KNok-rqHvdeM-YOJO/view))
-    ([Our Services](https://orionintelligence.org/service/))
-    ([About us](https://orionintelligence.org/))
+  For further information follow these links,
+  ([Privacy Policy](https://drive.google.com/file/d/16NQysXxTdEg5Jx6KNok-rqHvdeM-YOJO/view))
+  ([Our Services](https://orionintelligence.org/service/))
+  ([About us](https://orionintelligence.org/))
 
 ## Feature Display Portion(The right pane):
 This portion visually shows/tells about the services that are provided. The following are the services,
